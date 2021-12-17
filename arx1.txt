@@ -6,4 +6,8 @@ primer cambio desde la rama no-conlict
 dsfdg
 este es el segundo acbio pero desde la rama v2.0
 ben almistim kendime
+<<<<<<< HEAD
+>>>>>>> v2.0
+=======
+fan filaaaaaaaaaaaaaaaaaaaaaaaaaaan
 >>>>>>> v2.0
